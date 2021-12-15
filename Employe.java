@@ -2,7 +2,7 @@ package tdSi;
 
 public class Employe extends Personne{
 	
-	public int matriculeEmploye;
+	prevate int matriculeEmploye;
 	
 
 	public int getMatriculeEmploye() {
